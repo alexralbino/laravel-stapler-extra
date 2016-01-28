@@ -20,5 +20,6 @@
             "Mixdinternet\\LaravelStaplerExtra\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "version": "dev-master",
+    "minimum-stability": "dev"
 }
