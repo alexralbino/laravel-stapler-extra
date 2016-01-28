@@ -1,0 +1,24 @@
+{
+    "name": "mixdinternet/laravel-stapler-extra",
+    "description": "This package add some features that laravel-stapler doesn't have",
+    "keywords": ["laravel", "upload", "stapler", "image"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irineu Martins Junior",
+            "email": "irineu@mixd.com.br",
+            "homepage": "http://www.mixd.com.br/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "codesleeve/laravel-stapler": "^1.0",
+        "imagine/imagine": "^0.6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mixdinternet\\LaravelStaplerExtra\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
