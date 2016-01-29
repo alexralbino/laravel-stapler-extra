@@ -19,7 +19,5 @@
         "psr-4": {
             "Mixdinternet\\LaravelStaplerExtra\\": "src/"
         }
-    },
-    "version": "dev-master",
-    "minimum-stability": "dev"
+    }
 }
