@@ -1,5 +1,5 @@
 {
-    "name": "mixdinternet/laravel-stapler-extra",
+    "name": "alexralbino/laravel-stapler-extra",
     "description": "This package add some features that laravel-stapler doesn't have",
     "keywords": ["laravel", "upload", "stapler", "image"],
     "license": "MIT",
@@ -12,8 +12,7 @@
         }
     ],
     "require": {
-        "codesleeve/laravel-stapler": "^1.0",
-        "imagine/imagine": "^0.6.3"
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-4": {
